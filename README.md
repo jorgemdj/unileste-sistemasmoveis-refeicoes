@@ -1,4 +1,4 @@
-# 🥗 Dunileste-sistemasmoveis-refeicoes App
+# 🥗 Unileste-sistemasmoveis-refeicoes App
 
 Aplicativo de controle de refeições desenvolvido com React Native + Expo SDK 54.
 
