@@ -1,7 +1,7 @@
 # 🥗 Unileste-sistemasmoveis-refeicoes App
 
 Aplicativo de controle de refeições desenvolvido com React Native + Expo SDK 54. 
-Using node v24.14.1 (npm v11.11.0)
+Using node v20.20.2 (npm v10.8.2)
 
 ## 🚀 Como iniciar
 
